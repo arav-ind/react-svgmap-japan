@@ -1,6 +1,6 @@
 # React SVG Map Japan
 
-This package generates an interactive SVG map of Japan. It allows users to highlight states on hover and retrieve the value of the selected state. The map includes all prefectures of Japan.
+This package generates an interactive SVG map of Japan. It allows users to highlight states on hover and retrieve the value of the selected state.
 
 ![Japan Map](./svgmap.gif)
 
@@ -14,7 +14,7 @@ npm install react-svgmap-japan
 
 ## Prefecture List
 
-The following are the prefectures mapped with ID.
+The following are the prefectures mapped with its ID.
 
 ```js
 const prefectures = {
@@ -68,7 +68,7 @@ const prefectures = {
 }
 ```
 
-## Japange
+## Usage
 
 ```jsx
 'use client'
