@@ -74,7 +74,7 @@ const prefectures = {
 'use client'
 
 import { useState } from 'react'
-import JapanMap from 'react-svgmap-Japan'
+import JapanMap from 'react-svgmap-japan'
 
 export default function MapComponent() {
     const [state, setState] = useState('')
