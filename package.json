@@ -1,6 +1,6 @@
 {
   "name": "react-svgmap-japan",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Interactive SVG Map of Japan with hover and click functionality",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
